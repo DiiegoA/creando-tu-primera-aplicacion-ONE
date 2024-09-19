@@ -58,5 +58,5 @@ To run any of the Java programs in this repository:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   https://github.com/DiiegoA/creando-tu-primera-aplicacion-ONE.git
    ```
